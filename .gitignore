@@ -1,1 +1,26 @@
+# data
+data/
 
+# python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# env
+.env
+venv/
+.venv/
+
+# os
+.DS_Store
+Thumbs.db
+
+# ide
+.vscode/
+.idea/
+*.swp
+
+# project specific
+skills/
+*.pdf
